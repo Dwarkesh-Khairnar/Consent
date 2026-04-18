@@ -11,8 +11,9 @@ for install mongoose
 
 4. npm i express-session
 
-5. npm i nodemailer
-for mail sending pakeges
+
+### for mail sending pakeges
+      npm i nodemailer
 
 ### 6. 
     npm i bcrypt
